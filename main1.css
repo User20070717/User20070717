@@ -1,0 +1,219 @@
+.name {
+    position:static;
+    color: blue;
+}
+ .UX{
+    position: absolute;
+    top: 100px;
+ }
+ .tajriba  {
+    position: relative;
+    top: 100px;
+}
+.exam {
+    position:absolute;
+    top: 10px;
+     
+}
+
+.crafty {
+    position: relative;
+    top: 55px;
+    left: 30%;
+}
+ .ikkinchi{
+    position: relative;
+    top: 35px;
+    left: 30% ;
+    color: #5b6d75;
+ }
+ .uchinchi {
+    position: relative;
+    top: -16px;
+    left: 70% ;
+    color: #5b6d75;
+ }
+ 
+ .tortinchi {
+    position: relative;
+    top:-16px;
+    left: 0% ;
+    color: #5b6d75;
+ }
+ .beshinchi{
+    position: relative;
+    top: -75px;
+    left: 40% ;
+    color: #5b6d75;
+ }
+
+ .oltinchi {
+    position: relative;
+    top: -20px;
+    left: -0%;
+    color: #5b6d75;
+ }
+
+ .yettinchi{
+    position: relative;
+    top: -75px;
+    left: 40% ;
+    color: #5b6d75;
+ }
+
+ .sakkiz {
+    position: relative;
+    top: -20px;
+    left: -0%;
+    color: #5b6d75
+ }
+
+ .toqqiz {
+    position: relative;
+    top: -75px;
+    left: 40% ;
+    color: #5b6d75;
+ }
+
+ .on {
+    position: relative;
+    top: -20px;
+    left: -0%;
+    color: #5b6d75 
+ }
+
+ .raqamlar {
+    position: relative;
+    top: -40px;
+    left: 30%;
+    color: #5b6d75
+ }
+
+ .dizayn {
+    position: relative;
+    top: -97px;
+    left: 70% ;
+    color: #5b6d75;
+ }
+
+ .gruop {
+    position: relative;
+    top: -75px;
+    left: 40% ;
+    color: #5b6d75;
+ }
+ .yil {
+    position: relative;
+    top: -40px;
+    left: 30%;
+    color: #5b6d75
+ }
+ 
+ .dizayner {
+    position: relative;
+    top: -97px;
+    left: 70% ;
+    color: #5b6d75;
+ }
+
+ .slayd {
+    position: relative;
+    top: -45px;
+    left: 30%;
+    color: #5b6d75
+ }
+
+ .slaydd {
+    position: relative;
+    top: -90px;
+    left: 30%;
+    color: #5b6d75
+ }
+ .jamoa {
+    position: relative;
+    top: -187px;
+    left: 70% ;
+    color: #5b6d75;
+ } 
+
+ .yakun {
+    position: relative;
+    top: -60px;
+    left: 30%;
+    color: #5b6d75
+ }
+ 
+.box2{
+   position: absolute;
+   top: 30px;
+   color:black ;
+   height: 900px;
+   width: 200px;
+   right: 220px;  
+   font-size: 14px;
+   font-weight: 300;
+   color: #5b6d75;
+}
+
+.frilans{
+    position: relative;
+    top: 15px;
+    left: 30%;
+}
+
+.najot{
+    position: relative;
+    top: -15px;
+    left: 30%;
+}
+.yuksak {
+    position: relative;
+    top: -25px;
+    left: 30%;
+}
+
+.noor {
+    position: relative;
+    top: -25px;
+    left: 30%;
+}
+
+.bolim3 {
+    position: static;
+    color: blue;
+}
+ .keyingisi {
+    position: relative;
+    top: -25px;
+    left: 30%;
+ }
+
+ .marketing {
+    position: relative;
+    top: -25px;
+    left: 30%;
+ }
+ 
+ .boshidan {
+    position: static;
+    color: blue;
+ }
+ 
+
+ .yazik {
+    position: static;
+    color: blue;
+ }
+
+body{
+    height: min-content;
+}
+
+.id {
+    position: static;
+    color: #5b6d75;
+}
+
+.container a {
+    text-decoration: none;
+}
